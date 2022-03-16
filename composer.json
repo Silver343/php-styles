@@ -1,5 +1,5 @@
 {
-    "name": "Silver3433/php-style-example",
+    "name": "silver3433/php-style",
     "description": "My shared PHP style rules for PHP-CS-Fixer",
     "license": "MIT",
     "require": {
