@@ -1,0 +1,13 @@
+{
+    "name": "Silver3433/php-style-example",
+    "description": "My shared PHP style rules for PHP-CS-Fixer",
+    "license": "MIT",
+    "require": {
+      "friendsofphp/php-cs-fixer": "^3.0"
+    },
+    "autoload": {
+      "files": [
+        "./src/helpers.php"
+      ]
+    }
+  }
